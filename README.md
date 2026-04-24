@@ -12,9 +12,11 @@ Inspired by the [Ember iOS app](https://github.com/pawelosfpv/ember), this is a 
 ## Install
 
 1. Connect your radio's SD card to your computer.
-2. Copy the `SCRIPTS/` folder from this repo onto the SD card, merging with what's already there.
+2. Copy `SCRIPTS/TOOLS/ember.lua` onto the SD card at `/SCRIPTS/TOOLS/ember.lua`, merging with what's already there.
 3. Eject, reboot the radio.
 4. `SYS` (hold) → `Tools` → `Ember`.
+
+Bests are stored at `/SCRIPTS/TOOLS/ember_bests.txt` (created on first run).
 
 ## Drills (v1)
 
